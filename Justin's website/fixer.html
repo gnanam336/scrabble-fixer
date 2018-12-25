@@ -1,0 +1,64 @@
+<html>
+<!--
+	Scrabble Fixer!
+	December 2018
+	By Justin Muller
+-->
+
+	<head>
+		<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  		<script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+  crossorigin="anonymous"></script>
+  		<link rel="stylesheet" href="fixer.css">
+  		<script src="test_questions.js"></script>
+  		<script src="fixer.js"></script>
+	</head>
+	<body>
+		<div id="splash" class="screen-tile">
+			<img id = "title-img" src="title.png">
+			<button id="start" class="hover-fix">Start</button>
+			<button id="get-info" class="hover-fix">Instructions</button>
+		</div>
+		<div id="info" class="screen-tile">
+			<div id="info-title">Justin's Scrabble Fixer</div>
+			<div id="info-text">
+				Scrabble is a great game, but it can be challenging to find people of the same experience level to play with.  If one player has a much larger vocabulary, and is better at spelling, the game may not be much fun.
+				<br><br>
+				This program contains a series of questions specifically designed to measure your vocabulary size and spelling ability in the context of Scrabble.  The test takes 2-3 minutes to complete. 
+				<br><br>
+				Your score on this test will be used to generate your Scrabble Bonus.  Everyone who wants to play Scrabble together should take this test, and then add their own Scrabble Bonus to their score in Scrabble.  Hopefully, this bonus will compensate for any vocab or spelling differences in the players, and allow Scrabble to be a competitive game of skill for everyone.  Have fun!
+
+			</div>
+			<button id="get-splash">Back</button>
+		</div>
+		<div id="questions" class="screen-tile">
+			<div id="status-div">
+				<div id="status-progress"></div>
+			</div>
+			<div id="questions-title">
+				<div id="center-align">
+					<div id="questions-title-span">How do you spell this?</div>
+				</div>
+			</div>
+			<div id="choices-box">
+				<button id = "choice-a" class="hover-fix choices">A</button>
+				<button id = "choice-b" class="hover-fix choices">B</button>
+				<button id = "choice-c" class="hover-fix choices">B</button>
+				<button id = "choice-d" class="hover-fix choices">D</button>
+			</div>
+		</div>
+		<div id="results" class="screen-tile">
+			<div id="score">+100</div>
+			<div id="score-title">Time to play Scrabble!</div>
+			<div id="score-text">Add this bonus to your score the next time you play.</div>
+			<div id="score-text-2">You answered <span id="final-score">42</span> out of <span id="question-count">42</span> correct, in <span id="final-time">0</span> minutes.  Good job!</div>
+		</div>
+	</body>
+
+
+</html>

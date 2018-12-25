@@ -1,0 +1,4197 @@
+(dp1
+S'26b'
+p2
+(dp3
+S'answer'
+p4
+S'd'
+sS'phrase'
+p5
+S'They gave us <some accessories>.'
+p6
+sS'word'
+p7
+S'accessory'
+p8
+sS'choices'
+p9
+(lp10
+S'papers giving us the right to enter a country'
+p11
+aS'official orders'
+p12
+aS'ideas to choose between'
+p13
+aS'extra pieces'
+p14
+assS'12b'
+p15
+(dp16
+g4
+S'b'
+sg5
+S"He couldn't stop <roving>."
+p17
+sg7
+S'rove'
+p18
+sg9
+(lp19
+S'getting drunk'
+p20
+aS'traveling around'
+p21
+aS'making a musical sound through closed lips'
+p22
+aS'working hard'
+p23
+assS'57b'
+p24
+(dp25
+g4
+S'c'
+sg5
+S'There were hundreds of <locusts>.'
+p26
+sg7
+S'locust'
+p27
+sg9
+(lp28
+S'unpaid helpers'
+p29
+aS'people who do not eat meat'
+p30
+aS'creatures with wings'
+p31
+aS'brightly coloured wild flowers'
+p32
+assS'68b'
+p33
+(dp34
+g4
+S'd'
+sg5
+S'She had <an aperitif>.'
+p35
+sg7
+S'aperitif'
+p36
+sg9
+(lp37
+S'a long chair for lying on'
+p38
+aS'a private singing teacher'
+p39
+aS'a large hat with tall feathers'
+p40
+aS'a drink taken before a meal'
+p41
+assS'45b'
+p42
+(dp43
+g4
+S'a'
+sg5
+S'The town was <in its heyday>.'
+p44
+sg7
+S'heyday'
+p45
+sg9
+(lp46
+S'at its peak of success'
+p47
+aS'on top of the hill'
+p48
+aS'very wealthy'
+p49
+aS'admired very much'
+p50
+assS'67b'
+p51
+(dp52
+g4
+S'a'
+sg5
+S'He looked into her <limpid> eyes.'
+p53
+sg7
+S'limpid'
+p54
+sg9
+(lp55
+S'clear'
+p56
+aS'sad'
+p57
+aS'deep brown'
+p58
+aS'beautiful'
+p59
+assS'24'
+p60
+(dp61
+g4
+S'b'
+sg5
+S'They raised the <threshold>.'
+p62
+sg7
+S'threshold'
+p63
+sg9
+(lp64
+S'flag'
+p65
+aS'point or line where something changes'
+p66
+aS'roof inside a building'
+p67
+aS'cost of borrowing money'
+p68
+assS'25'
+p69
+(dp70
+g4
+S'd'
+sg5
+S'This book is about <demography>.'
+p71
+sg7
+S'demography'
+p72
+sg9
+(lp73
+S'the study of patterns of land use'
+p74
+aS'the study of the use of pictures to show facts about numbers'
+p75
+aS'the study of the movement of water'
+p76
+aS'the study of population'
+p77
+assS'26'
+p78
+(dp79
+g4
+S'b'
+sg5
+S'His <malign> influence is still felt.'
+p80
+sg7
+S'malign'
+p81
+sg9
+(lp82
+S'good'
+p83
+aS'evil'
+p84
+aS'very important'
+p85
+aS'secret'
+p86
+assS'27'
+p87
+(dp88
+g4
+S'a'
+sg5
+S'He <strangled her>.'
+p89
+sg7
+S'strangle'
+p90
+sg9
+(lp91
+S'killed her by pressing her throat'
+p92
+aS'gave her all the things she wanted'
+p93
+aS'took her away by force'
+p94
+aS'admired her greatly'
+p95
+assS'20'
+p96
+(dp97
+g4
+S'a'
+sg5
+S'They have a <butler>.'
+p98
+sg7
+S'butler'
+p99
+sg9
+(lp100
+S'man servant'
+p101
+aS'machine for cutting up trees'
+p102
+aS'private teacher'
+p103
+aS'cool dark room under the house'
+p104
+assS'21'
+p105
+(dp106
+g4
+S'c'
+sg5
+S'We saw a <nun>.'
+p107
+sg7
+S'nun'
+p108
+sg9
+(lp109
+S'long thin creature that lives in the earth'
+p110
+aS'terrible accident'
+p111
+aS'woman following a strict religious life'
+p112
+aS'unexplained bright light in the sky'
+p113
+assS'22'
+p114
+(dp115
+g4
+S'a'
+sg5
+S'We bought <olives>.'
+p116
+sg7
+S'olive'
+p117
+sg9
+(lp118
+S'oily fruit'
+p119
+aS'scented flowers'
+p120
+aS"men's swimming clothes"
+p121
+aS'tools for digging'
+p122
+assS'23'
+p123
+(dp124
+g4
+S'c'
+sg5
+S'The boy <shuddered>.'
+p125
+sg7
+S'shudder'
+p126
+sg9
+(lp127
+S'spoke with a low voice'
+p128
+aS'almost fell'
+p129
+aS'shook'
+p130
+aS'called out loudly'
+p131
+assS'92b'
+p132
+(dp133
+g4
+S'a'
+sg5
+S'Did you put the <poppadoms> on the table?'
+p134
+sg7
+S'poppadom'
+p135
+sg9
+(lp136
+S'thin, slightly hard pieces of fried bread'
+p137
+aS'small pieces of food, usually raw, eaten before a meal'
+p138
+aS'cloths for protecting clothes while eating'
+p139
+aS'small sweet baked cakes'
+p140
+assS'37b'
+p141
+(dp142
+g4
+S'a'
+sg5
+S'Your plans are <devious>.'
+p143
+sg7
+S'devious'
+p144
+sg9
+(lp145
+S'tricky and threatening'
+p146
+aS'well-developed'
+p147
+aS'not well thought out'
+p148
+aS'more expensive than necessary'
+p149
+assS'28'
+p150
+(dp151
+g4
+S'd'
+sg5
+S'The children were pretending to be <dinosaurs>.'
+p152
+sg7
+S'dinosaur'
+p153
+sg9
+(lp154
+S'robbers who work at sea'
+p155
+aS'very small creatures with human form but with wings'
+p156
+aS'large creatures with wings that breathe fire'
+p157
+aS'animals that lived an extremely long time ago'
+p158
+assS'29'
+p159
+(dp160
+g4
+S'a'
+sg5
+S'He was holding <a jug>.'
+p161
+sg7
+S'jug'
+p162
+sg9
+(lp163
+S'a container for pouring liquids'
+p164
+aS'an informal discussion'
+p165
+aS'a soft cap'
+p166
+aS'a weapon that blows up'
+p167
+assS'82b'
+p168
+(dp169
+g4
+S'd'
+sg5
+S'These rocks are <vitreous>.'
+p170
+sg7
+S'vitreous'
+p171
+sg9
+(lp172
+S'very heavy'
+p173
+aS'easy to break'
+p174
+aS'full of small holes'
+p175
+aS'like glass'
+p176
+assS'74b'
+p177
+(dp178
+g4
+S'b'
+sg5
+S'She sank into <a torpor>.'
+p179
+sg7
+S'torpor'
+p180
+sg9
+(lp181
+S'a deep soft chair'
+p182
+aS'an inactive state'
+p183
+aS'a very unhappy state'
+p184
+aS'a bed cover filled with feathers'
+p185
+assS'4'
+(dp186
+g4
+S'd'
+sg5
+S'Is this the right <figure>?'
+p187
+sg7
+S'figure'
+p188
+sg9
+(lp189
+S'answer'
+p190
+aS'place'
+p191
+aS'time'
+p192
+aS'number'
+p193
+assS'8'
+(dp194
+g4
+S'a'
+sg5
+S'They went to the <pub>.'
+p195
+sg7
+S'pub'
+p196
+sg9
+(lp197
+S'place where people drink and talk'
+p198
+aS'place that looks after money'
+p199
+aS'large building with many shops'
+p200
+aS'building for swimming'
+p201
+assS'33b'
+p202
+(dp203
+g4
+S'c'
+sg5
+S'His influence <was null>.'
+p204
+sg7
+S'null'
+p205
+sg9
+(lp206
+S'had good results'
+p207
+aS'did not help much'
+p208
+aS'had no effect'
+p209
+aS'lasted a long time'
+p210
+assS'5b'
+p211
+(dp212
+g4
+S'd'
+sg5
+S'This was used as the <basis>.'
+p213
+sg7
+S'basis'
+p214
+sg9
+(lp215
+S'answer'
+p216
+aS'place to take a rest'
+p217
+aS'next step'
+p218
+aS'main part'
+p219
+assS'13b'
+p220
+(dp221
+g4
+S'c'
+sg5
+S'He felt <lonesome>.'
+p222
+sg7
+S'lonesome'
+p223
+sg9
+(lp224
+S'ungrateful'
+p225
+aS'very tired'
+p226
+aS'without company'
+p227
+aS'full of energy'
+p228
+assS'9b'
+p229
+(dp230
+g4
+S'a'
+sg5
+S'The <drawer> was empty.'
+p231
+sg7
+S'drawer'
+p232
+sg9
+(lp233
+S'sliding box'
+p234
+aS'place where cars are kept'
+p235
+aS'cupboard to keep things cold'
+p236
+aS'animal house'
+p237
+assS'78b'
+p238
+(dp239
+g4
+S'a'
+sg5
+S'These are <workaday clothes>.'
+p240
+sg7
+S'workaday'
+p241
+sg9
+(lp242
+S'plain and practical clothes'
+p243
+aS'clothes suitable for parties after work'
+p244
+aS'old and worn out clothes'
+p245
+aS'clothes that are thrown away after each working day'
+p246
+assS'49b'
+p247
+(dp248
+g4
+S'a'
+sg5
+S'That is <very dissonant>.'
+p249
+sg7
+S'dissonant'
+p250
+sg9
+(lp251
+S'full of sounds that are not nice together'
+p252
+aS'full of signs of death'
+p253
+aS'full of unwanted stops and starts'
+p254
+aS'likely to get you into trouble'
+p255
+assS'73b'
+p256
+(dp257
+g4
+S'a'
+sg5
+S'She suddenly became <supercilious>.'
+p258
+sg7
+S'supercilious'
+p259
+sg9
+(lp260
+S'proud and not respectful'
+p261
+aS'extremely stupid'
+p262
+aS'able to think about only one thing'
+p263
+aS'over weight'
+p264
+assS'21b'
+p265
+(dp266
+g4
+S'b'
+sg5
+S'It is <a miniature>.'
+p267
+sg7
+S'miniature'
+p268
+sg9
+(lp269
+S'an instrument for looking at very small objects'
+p270
+aS'a very small thing of its kind'
+p271
+aS'a very small living creature'
+p272
+aS'a small line to join letters in handwriting'
+p273
+assS'76b'
+p274
+(dp275
+g4
+S'c'
+sg5
+S'He told them about the <sputnik>.'
+p276
+sg7
+S'sputnik'
+p277
+sg9
+(lp278
+S'rare animal like a rabbit found in cold countries'
+p279
+aS'trap set by the police'
+p280
+aS'object that travels high in the sky round the earth'
+p281
+aS'secret organization with evil plans'
+p282
+assS'65b'
+p283
+(dp284
+g4
+S'c'
+sg5
+S'He was <gauche>.'
+p285
+sg7
+S'gauche'
+p286
+sg9
+(lp287
+S'talkative'
+p288
+aS'flexible'
+p289
+aS'awkward'
+p290
+aS'determined'
+p291
+assS'66b'
+p292
+(dp293
+g4
+S'c'
+sg5
+S'They were stopped by <the cordillera>.'
+p294
+sg7
+S'cordillera'
+p295
+sg9
+(lp296
+S'a special law'
+p297
+aS'an armed ship'
+p298
+aS'a line of mountains'
+p299
+aS'the firstborn son of the king'
+p300
+assS'40b'
+p301
+(dp302
+g4
+S'b'
+sg5
+S'We looked through the <haze>.'
+p303
+sg7
+S'haze'
+p304
+sg9
+(lp305
+S'small round window in a ship'
+p306
+aS'unclear air'
+p307
+aS'cover for a window made of strips of wood or plastic'
+p308
+aS'list of names'
+p309
+assS'54b'
+p310
+(dp311
+g4
+S'c'
+sg5
+S'He was very <jovial>.'
+p312
+sg7
+S'jovial'
+p313
+sg9
+(lp314
+S'low on the social scale'
+p315
+aS'likely to criticize others'
+p316
+aS'full of fun'
+p317
+aS'friendly'
+p318
+assS'59'
+p319
+(dp320
+g4
+S'c'
+sg5
+S'We saw the <emir>.'
+p321
+sg7
+S'emir'
+p322
+sg9
+(lp323
+S'bird with two long curved tail feathers'
+p324
+aS"woman who cares for other people's children in eastern countries"
+p325
+aS'Middle Eastern chief with power in his own land'
+p326
+aS'house made from blocks of ice'
+p327
+assS'58'
+p328
+(dp329
+g4
+S'a'
+sg5
+S'It <augured well>.'
+p330
+sg7
+S'augur'
+p331
+sg9
+(lp332
+S'promised good things for the future'
+p333
+aS'agreed with what was expected'
+p334
+aS'had a colour that looked good with something else'
+p335
+aS'rang with a clear, beautiful sound'
+p336
+assS'34b'
+p337
+(dp338
+g4
+S'b'
+sg5
+S'I was <perturbed>.'
+p339
+sg7
+S'perturb'
+p340
+sg9
+(lp341
+S'made to agree'
+p342
+aS'worried and puzzled'
+p343
+aS'corruptly sexual'
+p344
+aS'very wet'
+p345
+assS'75b'
+p346
+(dp347
+g4
+S'c'
+sg5
+S'She is the leader of a <coven>.'
+p348
+sg7
+S'coven'
+p349
+sg9
+(lp350
+S'small singing group'
+p351
+aS'business that is owned by the workers'
+p352
+aS'secret society'
+p353
+aS'group of church women who follow a strict religious life'
+p354
+assS'55'
+p355
+(dp356
+g4
+S'b'
+sg5
+S'We saw a lot of <plankton> here.'
+p357
+sg7
+S'plankton'
+p358
+sg9
+(lp359
+S'poisonous plants that spread very quickly'
+p360
+aS'very small plants or animals found in water'
+p361
+aS'trees producing hard wood'
+p362
+aS'grey soil that often causes land to slip'
+p363
+assS'54'
+p364
+(dp365
+g4
+S'b'
+sg5
+S'Just look at those <talons>!'
+p366
+sg7
+S'talon'
+p367
+sg9
+(lp368
+S'high points of mountains'
+p369
+aS'sharp hooks on the feet of a hunting bird'
+p370
+aS'heavy metal coats to protect against weapons'
+p371
+aS'people who make fools of themselves without realizing it'
+p372
+assS'57'
+p373
+(dp374
+g4
+S'c'
+sg5
+S'They saw a <puma>.'
+p375
+sg7
+S'puma'
+p376
+sg9
+(lp377
+S'small house made of mud bricks'
+p378
+aS'tree from hot, dry countries'
+p379
+aS'large wild cat'
+p380
+aS'very strong wind that lifts anything in its path'
+p381
+assS'56'
+p382
+(dp383
+g4
+S'd'
+sg5
+S'That was an excellent <soliloquy>!'
+p384
+sg7
+S'soliloquy'
+p385
+sg9
+(lp386
+S'song for six people'
+p387
+aS'short clever saying with a deep meaning'
+p388
+aS'entertainment using lights and music'
+p389
+aS'speech in the theatre by a character who is alone'
+p390
+assS'51'
+p391
+(dp392
+g4
+S'a'
+sg5
+S'They made <a counterclaim>.'
+p393
+sg7
+S'counterclaim'
+p394
+sg9
+(lp395
+S'a demand response made by one side in a law case'
+p396
+aS'a request for a shop to take back things with faults'
+p397
+aS'an agreement between two companies to exchange work'
+p398
+aS'a decorative cover for a bed, which is always on top'
+p399
+assS'50'
+p400
+(dp401
+g4
+S'd'
+sg5
+S'Put it in a <vial>.'
+p402
+sg7
+S'vial'
+p403
+sg9
+(lp404
+S'device which stores electricity'
+p405
+aS'country residence'
+p406
+aS'dramatic scene'
+p407
+aS'small glass bottle'
+p408
+assS'53'
+p409
+(dp410
+g4
+S'a'
+sg5
+S'He practised the <trill>.'
+p411
+sg7
+S'trill'
+p412
+sg9
+(lp413
+S'repeated high musical sound'
+p414
+aS'type of stringed instrument'
+p415
+aS'way of throwing the ball'
+p416
+aS'dance step of turning round very fast on the toes'
+p417
+assS'52'
+p418
+(dp419
+g4
+S'a'
+sg5
+S'We met in the <refectory>.'
+p420
+sg7
+S'refectory'
+p421
+sg9
+(lp422
+S'room for eating'
+p423
+aS'office where legal papers can be signed'
+p424
+aS'room for several people to sleep in'
+p425
+aS'room with glass walls for growing plants'
+p426
+assS'69b'
+p427
+(dp428
+g4
+S'b'
+sg5
+S'It was <scrunched up>.'
+p429
+sg7
+S'scrunch'
+p430
+sg9
+(lp431
+S'done with many mistakes'
+p432
+aS'crushed together'
+p433
+aS'cut into large, rough pieces'
+p434
+aS'thrown violently into the air'
+p435
+assS'2b'
+p436
+(dp437
+g4
+S'b'
+sg5
+S'She tried to <jump>.'
+p438
+sg7
+S'jump'
+p439
+sg9
+(lp440
+S'lie on top of the water'
+p441
+aS'get off the ground suddenly'
+p442
+aS'stop the car at the edge of the road'
+p443
+aS'move very fast'
+p444
+assS'93b'
+p445
+(dp446
+g4
+S'b'
+sg5
+S'He studies <hydrofoils>.'
+p447
+sg7
+S'hydrofoil'
+p448
+sg9
+(lp449
+S'crops produced from the sea'
+p450
+aS'devices that push boats clear of the water'
+p451
+aS'components of rocks'
+p452
+aS'amazing curls and twists'
+p453
+assS'81b'
+p454
+(dp455
+g4
+S'b'
+sg5
+S'The <planetarium> was interesting.'
+p456
+sg7
+S'planetarium'
+p457
+sg9
+(lp458
+S'place where planes are built'
+p459
+aS'place where a machine shows the way planets move'
+p460
+aS'course to teach people good planning skills'
+p461
+aS'place where fish are kept'
+p462
+assS'38b'
+p463
+(dp464
+g4
+S'c'
+sg5
+S'They did it by <stealth>.'
+p465
+sg7
+S'stealth'
+p466
+sg9
+(lp467
+S'spending a large amount of money'
+p468
+aS'hurting someone so much that they agreed to their demands'
+p469
+aS'moving secretly with extreme care and quietness'
+p470
+aS'taking no notice of problems they met'
+p471
+assS'28b'
+p472
+(dp473
+g4
+S'a'
+sg5
+S'The story is set in <the fens>.'
+p474
+sg7
+S'fen'
+p475
+sg9
+(lp476
+S'a piece of low flat land partly covered by water'
+p477
+aS'a piece of high, hilly land with few trees'
+p478
+aS'a block of poor-quality houses in a city'
+p479
+aS'a time long ago'
+p480
+assS'24b'
+p481
+(dp482
+g4
+S'c'
+sg5
+S'He is <scrubbing it>.'
+p483
+sg7
+S'scrub'
+p484
+sg9
+(lp485
+S'cutting shallow lines into it'
+p486
+aS'repairing it'
+p487
+aS'washing it energetically'
+p488
+aS'drawing simple pictures of it'
+p489
+assS'10b'
+p490
+(dp491
+g4
+S'a'
+sg5
+S'We did not understand his <joke>.'
+p492
+sg7
+S'joke'
+p493
+sg9
+(lp494
+S'attempt at humour'
+p495
+aS'false statement'
+p496
+aS'way of speaking'
+p497
+aS'way of thinking'
+p498
+assS'99b'
+p499
+(dp500
+g4
+S'd'
+sg5
+S'Look at the <stupa>.'
+p501
+sg7
+S'stupa'
+p502
+sg9
+(lp503
+S'tall hairstyle'
+p504
+aS'woman with a bad sexual reputation'
+p505
+aS"temporary platform for a dead person's body"
+p506
+aS'Asian religious memorial'
+p507
+assS'88'
+p508
+(dp509
+g4
+S'd'
+sg5
+S'He was <in a torpid state>.'
+p510
+sg7
+S'torpid'
+p511
+sg9
+(lp512
+S'undecided'
+p513
+aS'filled with very strong feelings'
+p514
+aS'confused and anxious'
+p515
+aS'slow and sleepy'
+p516
+assS'89'
+p517
+(dp518
+g4
+S'c'
+sg5
+S'She loves her <dachshund>.'
+p519
+sg7
+S'dachshund'
+p520
+sg9
+(lp521
+S'warm fur hat'
+p522
+aS'thick floor rug with special patterns'
+p523
+aS'small dog with short legs and a long back'
+p524
+aS'old musical instrument with twelve strings'
+p525
+assS'58b'
+p526
+(dp527
+g4
+S'a'
+sg5
+S'He painted the <lintel>.'
+p528
+sg7
+S'lintel'
+p529
+sg9
+(lp530
+S'beam across the top of a door or window'
+p531
+aS'small boat used for getting to land from a big boat'
+p532
+aS'beautiful tree with spreading branches and green fruit'
+p533
+aS'board which shows the scene in a theatre'
+p534
+assS'82'
+p535
+(dp536
+g4
+S'd'
+sg5
+S'The cat left a <gobbet> behind.'
+p537
+sg7
+S'gobbet'
+p538
+sg9
+(lp539
+S'strip of torn material'
+p540
+aS'footprint'
+p541
+aS'piece of solid waste from the body'
+p542
+aS'lump of food returned from the stomach'
+p543
+assS'83'
+p544
+(dp545
+g4
+S'd'
+sg5
+S'I hate the <rigmarole>.'
+p546
+sg7
+S'rigmarole'
+p547
+sg9
+(lp548
+S'very fast and difficult dance for eight people'
+p549
+aS'funny character in the theatre'
+p550
+aS'form which must be completed each year for tax purposes'
+p551
+aS'long, pointless and complicated set of actions'
+p552
+assS'80'
+p553
+(dp554
+g4
+S'a'
+sg5
+S'He has become <effete>.'
+p555
+sg7
+S'effete'
+p556
+sg9
+(lp557
+S'weak and soft'
+p558
+aS'too fond of strong drink'
+p559
+aS'unable to leave his bed'
+p560
+aS'extremely easy to annoy'
+p561
+assS'81'
+p562
+(dp563
+g4
+S'c'
+sg5
+S'They were <rollicking>.'
+p564
+sg7
+S'rollick'
+p565
+sg9
+(lp566
+S'driving very fast'
+p567
+aS'staying away from school without being permitted to'
+p568
+aS'having fun in a noisy and spirited way'
+p569
+aS'sliding on snow using round boards'
+p570
+assS'86'
+p571
+(dp572
+g4
+S'b'
+sg5
+S'They supply <copra>.'
+p573
+sg7
+S'copra'
+p574
+sg9
+(lp575
+S'a highly poisonous substance used to kill unwanted plants'
+p576
+aS'the dried meat from a large nut used to make oil'
+p577
+aS'an illegal substance which makes people feel good for a short time'
+p578
+aS'strong rope used on sailing ships'
+p579
+assS'87'
+p580
+(dp581
+g4
+S'd'
+sg5
+S'She lay on the <bier>.'
+p582
+sg7
+S'bier'
+p583
+sg9
+(lp584
+S'folding garden chair'
+p585
+aS'grass next to a river'
+p586
+aS'place where boats can be tied up'
+p587
+aS'board on which a dead body is carried'
+p588
+assS'84'
+p589
+(dp590
+g4
+S'b'
+sg5
+S'The article was about <alimony>.'
+p591
+sg7
+S'alimony'
+p592
+sg9
+(lp593
+S'feelings of bitterness and annoyance, expressed sharply'
+p594
+aS'money for the care of children, paid regularly after a divorce'
+p595
+aS'giving praise for excellent ideas'
+p596
+aS'a metal which breaks easily and is bluish white'
+p597
+assS'85'
+p598
+(dp599
+g4
+S'c'
+sg5
+S'He <rode roughshod>.'
+p600
+sg7
+S'roughshod'
+p601
+sg9
+(lp602
+S'travelled without good preparation'
+p603
+aS'made lots of mistakes'
+p604
+aS"did not consider other people's feelings"
+p605
+aS'did not care about his own comfort'
+p606
+assS'64b'
+p607
+(dp608
+g4
+S'd'
+sg5
+S'Please clean the <hutch>.'
+p609
+sg7
+S'hutch'
+p610
+sg9
+(lp611
+S'thing with metal bars to keep dirt out of water pipes'
+p612
+aS'space in the back of a car used for bags etc'
+p613
+aS'round metal thing in the middle of a bicycle wheel'
+p614
+aS'cage for small animals like rabbits'
+p615
+assS'51b'
+p616
+(dp617
+g4
+S'b'
+sg5
+S'His <spleen> was damaged.'
+p618
+sg7
+S'spleen'
+p619
+sg9
+(lp620
+S'knee bone'
+p621
+aS'organ found near the stomach'
+p622
+aS'pipe taking waste water from a house'
+p623
+aS'respect for himself'
+p624
+assS'43b'
+p625
+(dp626
+g4
+S'c'
+sg5
+S'Listen to it <sizzle>.'
+p627
+sg7
+S'sizzle'
+p628
+sg9
+(lp629
+S'turn to stone'
+p630
+aS'release pressure and untwist'
+p631
+aS'make noise while being cooked'
+p632
+aS'force out liquid'
+p633
+assS'100b'
+p634
+(dp635
+g4
+S'a'
+sg5
+S'It has <a dramaturgical> effect.'
+p636
+sg7
+S'dramaturgical'
+p637
+sg9
+(lp638
+S'a theatrical'
+p639
+aS'a glorious'
+p640
+aS'a human-centring'
+p641
+aS'an oily and unpleasant'
+p642
+assS'19b'
+p643
+(dp644
+g4
+S'c'
+sg5
+S'She has completed her <thesis>.'
+p645
+sg7
+S'thesis'
+p646
+sg9
+(lp647
+S'talk given by a judge at the end of a trial'
+p648
+aS'first year of employment after becoming a teacher'
+p649
+aS'long written report of study carried out for a university degree'
+p650
+aS'extended course of hospital treatment'
+p651
+assS'71b'
+p652
+(dp653
+g4
+S'd'
+sg5
+S'The days after the <landfall> were busy.'
+p654
+sg7
+S'landfall'
+p655
+sg9
+(lp656
+S'ceremony to bless the land for a church'
+p657
+aS'bike event on a mountain'
+p658
+aS'acceptance of foreign control after a war'
+p659
+aS'the seeing of land after a journey by sea or air'
+p660
+assS'90b'
+p661
+(dp662
+g4
+S'd'
+sg5
+S'Where is my <serviette>?'
+p663
+sg7
+S'serviette'
+p664
+sg9
+(lp665
+S'girl who helps in the house'
+p666
+aS'piece of glass which makes things look bigger'
+p667
+aS'large flat plate'
+p668
+aS'piece of cloth or paper for wiping your mouth'
+p669
+assS'3'
+(dp670
+g4
+S'b'
+sg5
+S'It was a difficult <period>.'
+p671
+sg7
+S'period'
+p672
+sg9
+(lp673
+S'question'
+p674
+aS'time'
+p675
+aS'thing to do'
+p676
+aS'book'
+p677
+assS'84b'
+p678
+(dp679
+g4
+S'd'
+sg5
+S'He brought some <frankincense>.'
+p680
+sg7
+S'frankincense'
+p681
+sg9
+(lp682
+S'sweet smelling white flowers'
+p683
+aS'soft cheese made in France'
+p684
+aS'food made from yellow coloured rice and shellfish'
+p685
+aS'good smelling substance that comes out of trees'
+p686
+assS'7'
+(dp687
+g4
+S'b'
+sg5
+S'His mark for that question was <nil>.'
+p688
+sg7
+S'nil'
+p689
+sg9
+(lp690
+S'very bad'
+p691
+aS'nothing'
+p692
+aS'very good'
+p693
+aS'in the middle'
+p694
+assS'3b'
+p695
+(dp696
+g4
+S'd'
+sg5
+S'Where is <your shoe>?'
+p697
+sg7
+S'shoe'
+p698
+sg9
+(lp699
+S'the person who looks after you'
+p700
+aS'the thing you keep your money in'
+p701
+aS'the thing you use for writing'
+p702
+aS'the thing you wear on your foot'
+p703
+assS'39b'
+p704
+(dp705
+g4
+S'b'
+sg5
+S'Does it have a <hallmark>?'
+p706
+sg7
+S'hallmark'
+p707
+sg9
+(lp708
+S'stamp to show when it should be used by'
+p709
+aS'stamp to show the quality'
+p710
+aS'mark to show it is approved by the royal family'
+p711
+aS'mark or stain to prevent copying'
+p712
+assS'27b'
+p713
+(dp714
+g4
+S'd'
+sg5
+S'We need some <compost>.'
+p715
+sg7
+S'compost'
+p716
+sg9
+(lp717
+S'strong support'
+p718
+aS'help to feel better'
+p719
+aS'hard stuff made of stones and sand stuck together'
+p720
+aS'plant material fertilizer'
+p721
+assS'11b'
+p722
+(dp723
+g4
+S'd'
+sg5
+S'It was <paved>.'
+p724
+sg7
+S'pave'
+p725
+sg9
+(lp726
+S'prevented from going through'
+p727
+aS'divided'
+p728
+aS'given gold edges'
+p729
+aS'covered with a hard surface'
+p730
+assS'8b'
+p731
+(dp732
+g4
+S'd'
+sg5
+S'I am <upset>.'
+p733
+sg7
+S'upset'
+p734
+sg9
+(lp735
+S'tired'
+p736
+aS'famous'
+p737
+aS'rich'
+p738
+aS'unhappy'
+p739
+assS'59b'
+p740
+(dp741
+g4
+S'b'
+sg5
+S"I'm feeling really <upbeat> about it."
+p742
+sg7
+S'upbeat'
+p743
+sg9
+(lp744
+S'upset'
+p745
+aS'good'
+p746
+aS'hurt'
+p747
+aS'confused'
+p748
+assS'36b'
+p749
+(dp750
+g4
+S'd'
+sg5
+S'He lost his <palette>.'
+p751
+sg7
+S'palette'
+p752
+sg9
+(lp753
+S'container for carrying fish'
+p754
+aS'wish to eat food'
+p755
+aS'young female companion'
+p756
+aS"artist's board for mixing paints"
+p757
+assS'98b'
+p758
+(dp759
+g4
+S'd'
+sg5
+S"They're always <canoodling>!"
+p760
+sg7
+S'canoodle'
+p761
+sg9
+(lp762
+S'spreading false and evil ideas about others'
+p763
+aS'looking for a free meal'
+p764
+aS'merging into the crowd'
+p765
+aS'stroking and kissing one another'
+p766
+assS'31b'
+p767
+(dp768
+g4
+S'b'
+sg5
+S'The <bristles> are too hard.'
+p769
+sg7
+S'bristle'
+p770
+sg9
+(lp771
+S'questions'
+p772
+aS'short stiff hairs'
+p773
+aS'folding beds'
+p774
+aS'bottoms of the shoes'
+p775
+assS'100'
+p776
+(dp777
+g4
+S'b'
+sg5
+S"Let's not <pussyfoot around>."
+p778
+sg7
+S'pussyfoot'
+p779
+sg9
+(lp780
+S'criticise unreasonably'
+p781
+aS'take care to avoid confrontation'
+p782
+aS'attack indirectly'
+p783
+aS'suddenly start'
+p784
+assS'70b'
+p785
+(dp786
+g4
+S'c'
+sg5
+S'you need to <instantiate that>.'
+p787
+sg7
+S'instantiate'
+p788
+sg9
+(lp789
+S'make that happen quickly'
+p790
+aS'put that into the correct place'
+p791
+aS'give a real example of that'
+p792
+aS'explain that'
+p793
+assS'53b'
+p794
+(dp795
+g4
+S'c'
+sg5
+S'He nearly got <impaled>.'
+p796
+sg7
+S'impale'
+p797
+sg9
+(lp798
+S'charged with a serious offence'
+p799
+aS'put in prison'
+p800
+aS'stuck through with a sharp instrument'
+p801
+aS'involved in a dispute'
+p802
+assS'39'
+p803
+(dp804
+g4
+S'b'
+sg5
+S'The car <veered>.'
+p805
+sg7
+S'veer'
+p806
+sg9
+(lp807
+S'moved shakily'
+p808
+aS'changed course'
+p809
+aS'made a very loud noise'
+p810
+aS'slid without the wheels turning'
+p811
+assS'38'
+p812
+(dp813
+g4
+S'a'
+sg5
+S'He treated her <in a cavalier manner>.'
+p814
+sg7
+S'cavalier'
+p815
+sg9
+(lp816
+S'without care'
+p817
+aS'with good manners'
+p818
+aS'awkwardly'
+p819
+aS'as a brother would'
+p820
+assS'41b'
+p821
+(dp822
+g4
+S'c'
+sg5
+S"That's a good <gimmick>."
+p823
+sg7
+S'gimmick'
+p824
+sg9
+(lp825
+S'thing for standing on to work high above the ground'
+p826
+aS'small thing with pockets for holding money'
+p827
+aS'attention-getting action or image'
+p828
+aS'clever plan or trick'
+p829
+assS'52b'
+p830
+(dp831
+g4
+S'd'
+sg5
+S'This contains a lot of <caffeine>.'
+p832
+sg7
+S'caffeine'
+p833
+sg9
+(lp834
+S'a substance that makes you sleepy'
+p835
+aS'strings from very tough leaves'
+p836
+aS'ideas that are not correct'
+p837
+aS'a substance that makes you excited'
+p838
+assS'88b'
+p839
+(dp840
+g4
+S'd'
+sg5
+S'She was well known for her <exactitude>.'
+p841
+sg7
+S'exactitude'
+p842
+sg9
+(lp843
+S'courage under pressure'
+p844
+aS'sense of fairness'
+p845
+aS'habit of making unreasonable demands'
+p846
+aS'ability to be very accurate'
+p847
+assS'33'
+p848
+(dp849
+g4
+S'd'
+sg5
+S'<There was an eclipse>.'
+p850
+sg7
+S'eclipse'
+p851
+sg9
+(lp852
+S'A strong wind blew all day'
+p853
+aS'I heard something hit the water'
+p854
+aS'A large number of people were killed'
+p855
+aS'The sun was hidden by the moon'
+p856
+assS'32'
+p857
+(dp858
+g4
+S'b'
+sg5
+S'Look at my <tummy>.'
+p859
+sg7
+S'tummy'
+p860
+sg9
+(lp861
+S'fabric to cover the head'
+p862
+aS'stomach'
+p863
+aS'small soft animal'
+p864
+aS'finger used for gripping'
+p865
+assS'31'
+p866
+(dp867
+g4
+S'c'
+sg5
+S'They made a <quilt>.'
+p868
+sg7
+S'quilt'
+p869
+sg9
+(lp870
+S'statement about who should get their property when they die'
+p871
+aS'firm agreement'
+p872
+aS'thick warm cover for a bed'
+p873
+aS'feather pen'
+p874
+assS'30'
+p875
+(dp876
+g4
+S'c'
+sg5
+S'Do you like <crabs>?'
+p877
+sg7
+S'crab'
+p878
+sg9
+(lp879
+S'very thin small cakes'
+p880
+aS'tight, hard collars'
+p881
+aS'sea creatures that always walk to one side'
+p882
+aS'large black insects that sing at night'
+p883
+assS'37'
+p884
+(dp885
+g4
+S'b'
+sg5
+S'We saw the <cabaret>.'
+p886
+sg7
+S'cabaret'
+p887
+sg9
+(lp888
+S'painting covering a whole wall'
+p889
+aS'song and dance performance'
+p890
+aS'small crawling creature'
+p891
+aS'person who is half fish, half woman'
+p892
+assS'36'
+p893
+(dp894
+g4
+S'b'
+sg5
+S'This is <the marrow>.'
+p895
+sg7
+S'marrow'
+p896
+sg9
+(lp897
+S'symbol that brings good luck to a team'
+p898
+aS'soft centre of a bone'
+p899
+aS'control for guiding a plane'
+p900
+aS'increase in salary'
+p901
+assS'35'
+p902
+(dp903
+g4
+S'c'
+sg5
+S'Many unwanted plants <are ubiquitous>.'
+p904
+sg7
+S'ubiquitous'
+p905
+sg9
+(lp906
+S'are difficult to get rid of'
+p907
+aS'have long, strong roots'
+p908
+aS'are found everywhere'
+p909
+aS'die away in the winter'
+p910
+assS'34'
+p911
+(dp912
+g4
+S'a'
+sg5
+S'This was <excreted> recently.'
+p913
+sg7
+S'excrete'
+p914
+sg9
+(lp915
+S'pushed or sent out'
+p916
+aS'made clear'
+p917
+aS'discovered by a science experiment'
+p918
+aS'put on a list of illegal things'
+p919
+assS'83b'
+p920
+(dp921
+g4
+S'a'
+sg5
+S'Her dress was <cerise>.'
+p922
+sg7
+S'cerise'
+p923
+sg9
+(lp924
+S'a bright red colour'
+p925
+aS'made of a thin, soft material'
+p926
+aS'a pale blue-green colour'
+p927
+aS'made of expensive fabric with pretty patterns and small holes'
+p928
+assS'15b'
+p929
+(dp930
+g4
+S'b'
+sg5
+S'We found a good <remedy>.'
+p931
+sg7
+S'remedy'
+p932
+sg9
+(lp933
+S'place to eat in public'
+p934
+aS'way to fix a problem'
+p935
+aS'way to prepare food'
+p936
+aS'rule about numbers'
+p937
+assS'79b'
+p938
+(dp939
+g4
+S'c'
+sg5
+S'We saw a <lemur>.'
+p940
+sg7
+S'lemur'
+p941
+sg9
+(lp942
+S'priest from an eastern religion'
+p943
+aS'person with a very bad skin disease'
+p944
+aS'furry animal with a long tail'
+p945
+aS'purple fish from hot countries'
+p946
+assS'29b'
+p947
+(dp948
+g4
+S'b'
+sg5
+S'He is a <puritan>.'
+p949
+sg7
+S'puritan'
+p950
+sg9
+(lp951
+S'person who likes attention'
+p952
+aS'person with strict morals'
+p953
+aS'person with a moving home'
+p954
+aS'person who keeps money and hates spending it'
+p955
+assS'60b'
+p956
+(dp957
+g4
+S'b'
+sg5
+S'<His pallor> caused them concern.'
+p958
+sg7
+S'pallor'
+p959
+sg9
+(lp960
+S'his unusually high temperature'
+p961
+aS'the faint colour of his skin'
+p962
+aS'his lack of interest in anything'
+p963
+aS'his group of friends'
+p964
+assS'22b'
+p965
+(dp966
+g4
+S'a'
+sg5
+S'They found a <fracture>.'
+p967
+sg7
+S'fracture'
+p968
+sg9
+(lp969
+S'break'
+p970
+aS'small piece'
+p971
+aS'short coat'
+p972
+aS'discount certificate'
+p973
+assS'16b'
+p974
+(dp975
+g4
+S'a'
+sg5
+S'They <dashed> over it.'
+p976
+sg7
+S'dash'
+p977
+sg9
+(lp978
+S'moved quickly'
+p979
+aS'moved slowly'
+p980
+aS'fought'
+p981
+aS'looked quickly'
+p982
+assS'60'
+p983
+(dp984
+g4
+S'a'
+sg5
+S'The story <is very didactic>.'
+p985
+sg7
+S'didactic'
+p986
+sg9
+(lp987
+S'tries hard to teach something'
+p988
+aS'is very difficult to believe'
+p989
+aS'deals with exciting actions'
+p990
+aS'is written with unclear meaning'
+p991
+assS'61'
+p992
+(dp993
+g4
+S'b'
+sg5
+S'Look what we found in the <cranny>!'
+p994
+sg7
+S'cranny'
+p995
+sg9
+(lp996
+S'sale of unwanted objects'
+p997
+aS'narrow opening'
+p998
+aS'space for storing things under the roof of a house'
+p999
+aS'large wooden box'
+p1000
+assS'62'
+p1001
+(dp1002
+g4
+S'a'
+sg5
+S'He stood at the <lectern>.'
+p1003
+sg7
+S'lectern'
+p1004
+sg9
+(lp1005
+S'desk made to hold a book at a good height for reading'
+p1006
+aS'table or block used for church ceremonies'
+p1007
+aS'place where you buy drinks'
+p1008
+aS'very edge'
+p1009
+assS'63'
+p1010
+(dp1011
+g4
+S'a'
+sg5
+S'This <azalea> is very pretty.'
+p1012
+sg7
+S'azalea'
+p1013
+sg9
+(lp1014
+S'small tree with many flowers growing in groups'
+p1015
+aS'light natural fabric'
+p1016
+aS'long piece of material worn in India'
+p1017
+aS'sea shell shaped like a fan'
+p1018
+assS'64'
+p1019
+(dp1020
+g4
+S'd'
+sg5
+S'It is <a marsupial>.'
+p1021
+sg7
+S'marsupial'
+p1022
+sg9
+(lp1023
+S'an animal with hard feet'
+p1024
+aS'a plant that takes several years to grow'
+p1025
+aS'a plant with flowers that turn to face the sun'
+p1026
+aS'an animal with a pocket for babies'
+p1027
+assS'65'
+p1028
+(dp1029
+g4
+S'd'
+sg5
+S'It was very <bawdy>.'
+p1030
+sg7
+S'bawdy'
+p1031
+sg9
+(lp1032
+S'unpredictable'
+p1033
+aS'innocent'
+p1034
+aS'rushed'
+p1035
+aS'indecent'
+p1036
+assS'66'
+p1037
+(dp1038
+g4
+S'a'
+sg5
+S'He used a <crowbar>.'
+p1039
+sg7
+S'crowbar'
+p1040
+sg9
+(lp1041
+S'heavy iron pole with a curved end'
+p1042
+aS'false name'
+p1043
+aS'sharp tool for making holes in leather'
+p1044
+aS'light metal walking stick'
+p1045
+assS'67'
+p1046
+(dp1047
+g4
+S'b'
+sg5
+S'Her dress was <spangled>.'
+p1048
+sg7
+S'spangled'
+p1049
+sg9
+(lp1050
+S'torn into thin strips'
+p1051
+aS'covered with small bright decorations'
+p1052
+aS'made with lots of folds of fabric'
+p1053
+aS'ruined by touching something very hot'
+p1054
+assS'68'
+p1055
+(dp1056
+g4
+S'b'
+sg5
+S'She <averred> that it was the truth.'
+p1057
+sg7
+S'aver'
+p1058
+sg9
+(lp1059
+S'refused to agree'
+p1060
+aS'declared'
+p1061
+aS'believed'
+p1062
+aS'warned'
+p1063
+assS'69'
+p1064
+(dp1065
+g4
+S'd'
+sg5
+S'It had <a retro look>.'
+p1066
+sg7
+S'retro'
+p1067
+sg9
+(lp1068
+S'a very fashionable look'
+p1069
+aS'the look of a piece of modern art'
+p1070
+aS'the look of something which has been used a lot before'
+p1071
+aS'the look of something from an earlier time'
+p1072
+assS'56b'
+p1073
+(dp1074
+g4
+S'b'
+sg5
+S'This is a good <kindergarten>.'
+p1075
+sg7
+S'kindergarten'
+p1076
+sg9
+(lp1077
+S'activity that allows you to forget your worries'
+p1078
+aS'place of learning for children too young for school'
+p1079
+aS'strong, deep bag carried on the back'
+p1080
+aS'place where you may borrow books'
+p1081
+assS'46b'
+p1082
+(dp1083
+g4
+S'b'
+sg5
+S'He has lost <his mystique>.'
+p1084
+sg7
+S'mystique'
+p1085
+sg9
+(lp1086
+S'his healthy body'
+p1087
+aS'the secret way he makes other people think he has special skill'
+p1088
+aS'the woman he dated while he was married to someone else'
+p1089
+aS'the hair on his top lip'
+p1090
+assS'72b'
+p1091
+(dp1092
+g4
+S'd'
+sg5
+S'He was a <headstrong child>.'
+p1093
+sg7
+S'headstrong'
+p1094
+sg9
+(lp1095
+S'very clever child'
+p1096
+aS'child who has been given too many good things'
+p1097
+aS'very fat child'
+p1098
+aS'child that is determined to do what it wants'
+p1099
+assS'2'
+(dp1100
+g4
+S'c'
+sg5
+S'They have a lot of <time>.'
+p1101
+sg7
+S'time'
+p1102
+sg9
+(lp1103
+S'money'
+p1104
+aS'food'
+p1105
+aS'hours'
+p1106
+aS'friends'
+p1107
+assS'96b'
+p1108
+(dp1109
+g4
+S'b'
+sg5
+S'He is <maladroit>.'
+p1110
+sg7
+S'maladroit'
+p1111
+sg9
+(lp1112
+S'feeling sick to his stomach'
+p1113
+aS'physically awkward'
+p1114
+aS'rather silly but likeable'
+p1115
+aS'quickly angry and easily depressed'
+p1116
+assS'6'
+(dp1117
+g4
+S'b'
+sg5
+S'Please use the <microphone>.'
+p1118
+sg7
+S'microphone'
+p1119
+sg9
+(lp1120
+S'machine for making food hot'
+p1121
+aS'machine that makes sounds louder'
+p1122
+aS'machine that makes things look bigger'
+p1123
+aS'small telephone that can be carried around'
+p1124
+assS'55b'
+p1125
+(dp1126
+g4
+S'b'
+sg5
+S'It was a <dingy> place.'
+p1127
+sg7
+S'dingy'
+p1128
+sg9
+(lp1129
+S'cold, damp'
+p1130
+aS'poorly lit'
+p1131
+aS'delightful'
+p1132
+aS'hot, dry'
+p1133
+assS'6b'
+p1134
+(dp1135
+g4
+S'a'
+sg5
+S'Can they <maintain it>?'
+p1136
+sg7
+S'maintain'
+p1137
+sg9
+(lp1138
+S'keep it as it is'
+p1139
+aS'make it larger'
+p1140
+aS'get a better one than it'
+p1141
+aS'get it'
+p1142
+assS'25b'
+p1143
+(dp1144
+g4
+S'a'
+sg5
+S'You will need more <vocabulary>.'
+p1145
+sg7
+S'vocabulary'
+p1146
+sg9
+(lp1147
+S'words'
+p1148
+aS'skill'
+p1149
+aS'money'
+p1150
+aS'guns'
+p1151
+assS'17b'
+p1152
+(dp1153
+g4
+S'b'
+sg5
+S'Shall I <peel it>?'
+p1154
+sg7
+S'peel'
+p1155
+sg9
+(lp1156
+S'let it sit in water for a long time'
+p1157
+aS'take the skin off it'
+p1158
+aS'make it white'
+p1159
+aS'cut it into thin pieces'
+p1160
+assS'99'
+p1161
+(dp1162
+g4
+S'b'
+sg5
+S'I like <cyberpunk>.'
+p1163
+sg7
+S'cyberpunk'
+p1164
+sg9
+(lp1165
+S'medicine that does not use drugs'
+p1166
+aS'one variety of science fiction'
+p1167
+aS'the art and science of eating'
+p1168
+aS'a society ruled by technical experts'
+p1169
+assS'98'
+p1170
+(dp1171
+g4
+S'c'
+sg5
+S"Don't <play the casuist> with me!"
+p1172
+sg7
+S'casuist'
+p1173
+sg9
+(lp1174
+S'focus only on self-pleasure'
+p1175
+aS'act like a tough guy'
+p1176
+aS'make judgments about my conduct of duty'
+p1177
+aS'be stupid'
+p1178
+assS'91'
+p1179
+(dp1180
+g4
+S'd'
+sg5
+S'These thoughts <obtruded themselves>.'
+p1181
+sg7
+S'obtrude'
+p1182
+sg9
+(lp1183
+S'got themselves lost or forgotten'
+p1184
+aS'did not agree with each other'
+p1185
+aS'got mixed up with each other'
+p1186
+aS'pushed themselves forward in the mind'
+p1187
+assS'90'
+p1188
+(dp1189
+g4
+S'd'
+sg5
+S'What did you think of the <cadenza>?'
+p1190
+sg7
+S'cadenza'
+p1191
+sg9
+(lp1192
+S'cake topped with cream and fruit'
+p1193
+aS'large box hanging from a wire that carries people up a mountain'
+p1194
+aS'slow formal dance from Italy'
+p1195
+aS"passage in a piece of music that shows the player's great skill"
+p1196
+assS'93'
+p1197
+(dp1198
+g4
+S'a'
+sg5
+S'She read about <a cyborg>.'
+p1199
+sg7
+S'cyborg'
+p1200
+sg9
+(lp1201
+S'an integrated human-machine system'
+p1202
+aS'a musical instrument with forty strings'
+p1203
+aS'a small, newly invented object'
+p1204
+aS'a warm wind in winter'
+p1205
+assS'92'
+p1206
+(dp1207
+g4
+S'c'
+sg5
+S'They saw the <panzers> getting nearer.'
+p1208
+sg7
+S'panzer'
+p1209
+sg9
+(lp1210
+S'players in a marching band'
+p1211
+aS'fighter planes'
+p1212
+aS'large, slow windowless army cars'
+p1213
+aS'policewomen'
+p1214
+assS'95'
+p1215
+(dp1216
+g4
+S'c'
+sg5
+S'The painting had a <sylvan> theme.'
+p1217
+sg7
+S'sylvan'
+p1218
+sg9
+(lp1219
+S'lost love'
+p1220
+aS'wandering'
+p1221
+aS'forest'
+p1222
+aS'casual folk'
+p1223
+assS'94'
+p1224
+(dp1225
+g4
+S'a'
+sg5
+S'It is <a zygote>.'
+p1226
+sg7
+S'zygote'
+p1227
+sg9
+(lp1228
+S'an early phase of sexual reproduction'
+p1229
+aS'a lot of bother over nothing'
+p1230
+aS'a small animal found in southern Africa'
+p1231
+aS'a gun used to launch rockets'
+p1232
+assS'97'
+p1233
+(dp1234
+g4
+S'd'
+sg5
+S'My theory is <spatiotemporal>.'
+p1235
+sg7
+S'spatiotemporal'
+p1236
+sg9
+(lp1237
+S'focussed on small details'
+p1238
+aS'annoying to people'
+p1239
+aS'objectionably modern'
+p1240
+aS'oriented to time and space'
+p1241
+assS'96'
+p1242
+(dp1243
+g4
+S'a'
+sg5
+S'She had many ideas that were <sagacious>.'
+p1244
+sg7
+S'sagacious'
+p1245
+sg9
+(lp1246
+S'instinctively clever'
+p1247
+aS'ridiculous and wild'
+p1248
+aS'about abusing people and being abused'
+p1249
+aS'rebellious and dividing'
+p1250
+assS'11'
+p1251
+(dp1252
+g4
+S'd'
+sg5
+S'He is a <soldier>.'
+p1253
+sg7
+S'soldier'
+p1254
+sg9
+(lp1255
+S'person in a business'
+p1256
+aS'person who studies'
+p1257
+aS'person who uses metal'
+p1258
+aS'person in the army'
+p1259
+assS'10'
+p1260
+(dp1261
+g4
+S'b'
+sg5
+S'Our dog often <digs>.'
+p1262
+sg7
+S'dig'
+p1263
+sg9
+(lp1264
+S'solves problems with things'
+p1265
+aS'creates a hole in the ground'
+p1266
+aS'wants to sleep'
+p1267
+aS'enters the water'
+p1268
+assS'13'
+p1269
+(dp1270
+g4
+S'd'
+sg5
+S"He's <a pro>."
+p1271
+sg7
+S'pro'
+p1272
+sg9
+(lp1273
+S'someone who is employed to find out important secrets'
+p1274
+aS'a stupid person'
+p1275
+aS'someone who writes for a newspaper'
+p1276
+aS'someone who is paid for playing sport'
+p1277
+assS'12'
+p1278
+(dp1279
+g4
+S'c'
+sg5
+S'It has been <restored>.'
+p1280
+sg7
+S'restore'
+p1281
+sg9
+(lp1282
+S'said again'
+p1283
+aS'given to a different person'
+p1284
+aS'made like new again'
+p1285
+aS'given a lower price'
+p1286
+assS'15'
+p1287
+(dp1288
+g4
+S'a'
+sg5
+S'The company <had a large deficit>.'
+p1289
+sg7
+S'deficit'
+p1290
+sg9
+(lp1291
+S'spent a lot more money than it earned'
+p1292
+aS'went down a lot in value'
+p1293
+aS'had a plan for its spending that used a lot of money'
+p1294
+aS'had a lot of money stored in the bank'
+p1295
+assS'14'
+p1296
+(dp1297
+g4
+S'b'
+sg5
+S'They made a new <compound>.'
+p1298
+sg7
+S'compound'
+p1299
+sg9
+(lp1300
+S'agreement'
+p1301
+aS'thing made of two or more parts'
+p1302
+aS'group of people forming a business'
+p1303
+aS'guess based on past experience'
+p1304
+assS'17'
+p1305
+(dp1306
+g4
+S'b'
+sg5
+S'He <wept>.'
+p1307
+sg7
+S'weep'
+p1308
+sg9
+(lp1309
+S'finished his course'
+p1310
+aS'cried'
+p1311
+aS'died'
+p1312
+aS'worried'
+p1313
+assS'16'
+p1314
+(dp1315
+g4
+S'd'
+sg5
+S'He broke the <strap>.'
+p1316
+sg7
+S'strap'
+p1317
+sg9
+(lp1318
+S'promise'
+p1319
+aS'top cover'
+p1320
+aS'shallow dish for food'
+p1321
+aS'strip of strong material'
+p1322
+assS'19'
+p1323
+(dp1324
+g4
+S'b'
+sg5
+S'I need one more <cube>.'
+p1325
+sg7
+S'cube'
+p1326
+sg9
+(lp1327
+S'sharp thing used for joining things'
+p1328
+aS'solid square block'
+p1329
+aS'tall cup with no saucer'
+p1330
+aS'piece of stiff paper folded in half'
+p1331
+assS'18'
+p1332
+(dp1333
+g4
+S'd'
+sg5
+S'The house is <haunted>.'
+p1334
+sg7
+S'haunt'
+p1335
+sg9
+(lp1336
+S'full of decorations'
+p1337
+aS'rented'
+p1338
+aS'empty'
+p1339
+aS'full of ghosts'
+p1340
+assS'50b'
+p1341
+(dp1342
+g4
+S'b'
+sg5
+S'She was wearing <a tracksuit>.'
+p1343
+sg7
+S'tracksuit'
+p1344
+sg9
+(lp1345
+S'the upper part of a dress'
+p1346
+aS'a set of clothing for running'
+p1347
+aS'a knitted shirt with no buttons'
+p1348
+aS'an angry expression'
+p1349
+assS'97b'
+p1350
+(dp1351
+g4
+S'c'
+sg5
+S'I think it belongs in this <taxon>.'
+p1352
+sg7
+S'taxon'
+p1353
+sg9
+(lp1354
+S'tax category'
+p1355
+aS'small and light container for fruit'
+p1356
+aS'category of creature'
+p1357
+aS'room for safely keeping valuables'
+p1358
+assS'85b'
+p1359
+(dp1360
+g4
+S'c'
+sg5
+S'He made a <feint>.'
+p1361
+sg7
+S'feint'
+p1362
+sg9
+(lp1363
+S'small cake with dried fruit'
+p1364
+aS'thing with wheels for moving heavy objects'
+p1365
+aS'pretend attack to trick the enemy'
+p1366
+aS'serious mistake'
+p1367
+assS'42b'
+p1368
+(dp1369
+g4
+S'b'
+sg5
+S'She has started <yoga>.'
+p1370
+sg7
+S'yoga'
+p1371
+sg9
+(lp1372
+S'handwork done by knotting thread'
+p1373
+aS'a form of exercise for the body and mind'
+p1374
+aS'a game where a cork stuck with feathers is hit between two players'
+p1375
+aS'a type of dance from eastern countries'
+p1376
+assS'7b'
+p1377
+(dp1378
+g4
+S'a'
+sg5
+S'He sat on a <stone>.'
+p1379
+sg7
+S'stone'
+p1380
+sg9
+(lp1381
+S'hard thing'
+p1382
+aS'kind of chair'
+p1383
+aS'soft thing on the floor'
+p1384
+aS'part of a tree'
+p1385
+assS'86b'
+p1386
+(dp1387
+g4
+S'a'
+sg5
+S'This <muff> belonged to my mother.'
+p1388
+sg7
+S'muff'
+p1389
+sg9
+(lp1390
+S'tube of animal hair for keeping the hands warm'
+p1391
+aS'cover for a teapot'
+p1392
+aS'long rope of feathers to wear around the neck'
+p1393
+aS'bed cover made from squares of material sewn together'
+p1394
+assS'63b'
+p1395
+(dp1396
+g4
+S'a'
+sg5
+S'The <atoll> was beautiful.'
+p1397
+sg7
+S'atoll'
+p1398
+sg9
+(lp1399
+S'low island with sea water in the middle'
+p1400
+aS'art created by weaving pictures from fine string'
+p1401
+aS'small crown with many valuable stones'
+p1402
+aS'place where a river flows through a narrow spot with rocks'
+p1403
+assS'77b'
+p1404
+(dp1405
+g4
+S'c'
+sg5
+S"We'll need some <mozzarella>."
+p1406
+sg7
+S'mozzarella'
+p1407
+sg9
+(lp1408
+S'sweet sauce made from fruit'
+p1409
+aS'cheap wine'
+p1410
+aS'mild cheese'
+p1411
+aS'substance that keeps insects away from you'
+p1412
+assS'48b'
+p1413
+(dp1414
+g4
+S'a'
+sg5
+S'She used <a thesaurus>.'
+p1415
+sg7
+S'thesaurus'
+p1416
+sg9
+(lp1417
+S'a kind of dictionary'
+p1418
+aS'a chemical compound'
+p1419
+aS'a special way of speaking'
+p1420
+aS'an injection just under the skin'
+p1421
+assS'1b'
+p1422
+(dp1423
+g4
+S'd'
+sg5
+S'He <drives> fast.'
+p1424
+sg7
+S'drive'
+p1425
+sg9
+(lp1426
+S'swims'
+p1427
+aS'learns'
+p1428
+aS'throws balls'
+p1429
+aS'uses a car'
+p1430
+assS'89b'
+p1431
+(dp1432
+g4
+S'b'
+sg5
+S'The <speedometer> stopped working.'
+p1433
+sg7
+S'speedometer'
+p1434
+sg9
+(lp1435
+S'instrument that shows changes in the weather'
+p1436
+aS'thing that measures how fast you go'
+p1437
+aS'thing that keeps a room at an even temperature'
+p1438
+aS'tube put into a person to let liquids in or out of their body'
+p1439
+assS'20b'
+p1440
+(dp1441
+g4
+S'a'
+sg5
+S'It is <authentic>.'
+p1442
+sg7
+S'authentic'
+p1443
+sg9
+(lp1444
+S'real'
+p1445
+aS'very noisy'
+p1446
+aS'old'
+p1447
+aS'like a desert'
+p1448
+assS'14b'
+p1449
+(dp1450
+g4
+S'a'
+sg5
+S'They <alleged it>.'
+p1451
+sg7
+S'allege'
+p1452
+sg9
+(lp1453
+S'claimed it without proof'
+p1454
+aS'stole the ideas for it from someone else'
+p1455
+aS'provided facts to prove it'
+p1456
+aS'argued against the facts that supported it'
+p1457
+assS'44b'
+p1458
+(dp1459
+g4
+S'd'
+sg5
+S'She wanted <psychotherapy>.'
+p1460
+sg7
+S'psychotherapy'
+p1461
+sg9
+(lp1462
+S'the mutual operation of two things'
+p1463
+aS'the ability to govern'
+p1464
+aS'an unfriendly reaction'
+p1465
+aS'treatment for a mental illness'
+p1466
+assS'61b'
+p1467
+(dp1468
+g4
+S'd'
+sg5
+S'We watched a <skylark>.'
+p1469
+sg7
+S'skylark'
+p1470
+sg9
+(lp1471
+S'show with planes flying in patterns'
+p1472
+aS'human-made object going round the earth'
+p1473
+aS'person who does funny tricks'
+p1474
+aS'small bird that flies high as it sings'
+p1475
+assS'91b'
+p1476
+(dp1477
+g4
+S'c'
+sg5
+S'This is <scrumptious>.'
+p1478
+sg7
+S'scrumptious'
+p1479
+sg9
+(lp1480
+S'extremely funny'
+p1481
+aS'very expensive'
+p1482
+aS'delightful in taste'
+p1483
+aS'very dirty and untidy'
+p1484
+assS'30b'
+p1485
+(dp1486
+g4
+S'c'
+sg5
+S'They looked at the mountain <in awe>.'
+p1487
+sg7
+S'awe'
+p1488
+sg9
+(lp1489
+S'with a worried expression'
+p1490
+aS'with an interested expression'
+p1491
+aS'with a sense of wonder'
+p1492
+aS'with a feeling of respect'
+p1493
+assS'47b'
+p1494
+(dp1495
+g4
+S'd'
+sg5
+S'Have you seen their <communique>?'
+p1496
+sg7
+S'communique'
+p1497
+sg9
+(lp1498
+S'critical report about an organization'
+p1499
+aS'garden owned by many members of a community'
+p1500
+aS'printed material used for advertising'
+p1501
+aS'official announcement'
+p1502
+assS'35b'
+p1503
+(dp1504
+g4
+S'd'
+sg5
+S'He did a lot for the <peasantry>.'
+p1505
+sg7
+S'peasantry'
+p1506
+sg9
+(lp1507
+S'local people'
+p1508
+aS'place of worship'
+p1509
+aS"businessmen's club"
+p1510
+aS'working class people'
+p1511
+assS'48'
+p1512
+(dp1513
+g4
+S'c'
+sg5
+S'These are <canonical examples>.'
+p1514
+sg7
+S'canonical'
+p1515
+sg9
+(lp1516
+S'examples which break the usual rules'
+p1517
+aS'examples taken from a religious book'
+p1518
+aS'regular and widely accepted examples'
+p1519
+aS'examples discovered very recently'
+p1520
+assS'49'
+p1521
+(dp1522
+g4
+S'a'
+sg5
+S'This <puree> is bright green.'
+p1523
+sg7
+S'puree'
+p1524
+sg9
+(lp1525
+S'fruit or vegetables in liquid form'
+p1526
+aS'dress worn by women in India'
+p1527
+aS'skin of a fruit'
+p1528
+aS'very thin material for evening dresses'
+p1529
+assS'46'
+p1530
+(dp1531
+g4
+S'c'
+sg5
+S'He got hurt in the <ruck>.'
+p1532
+sg7
+S'ruck'
+p1533
+sg9
+(lp1534
+S'region between the stomach and the top of the leg'
+p1535
+aS'noisy street fight'
+p1536
+aS'group of players gathered round the ball in some ball games'
+p1537
+aS'race across a field of snow'
+p1538
+assS'47'
+p1539
+(dp1540
+g4
+S'c'
+sg5
+S'He had a lot of <roubles>.'
+p1541
+sg7
+S'rouble'
+p1542
+sg9
+(lp1543
+S'very valuable red stones'
+p1544
+aS'distant members of his family'
+p1545
+aS'Russian money'
+p1546
+aS'moral or other difficulties in the mind'
+p1547
+assS'44'
+p1548
+(dp1549
+g4
+S'c'
+sg5
+S'Aim the <nozzle> toward it.'
+p1550
+sg7
+S'nozzle'
+p1551
+sg9
+(lp1552
+S'space that light passes through in a camera'
+p1553
+aS'dry patch of skin'
+p1554
+aS'pipe attachment that forces water'
+p1555
+aS'sharp part of a fork'
+p1556
+assS'45'
+p1557
+(dp1558
+g4
+S'd'
+sg5
+S'He has <a psychosis>.'
+p1559
+sg7
+S'psychosis'
+p1560
+sg9
+(lp1561
+S'an inability to move'
+p1562
+aS'an oddly coloured patch of skin'
+p1563
+aS'a body organ that processes sugar'
+p1564
+aS'a mental illness'
+p1565
+assS'42'
+p1566
+(dp1567
+g4
+S'b'
+sg5
+S'Now he has a <monologue>.'
+p1568
+sg7
+S'monologue'
+p1569
+sg9
+(lp1570
+S'single piece of glass to hold over his eye to help him to see'
+p1571
+aS'long turn at talking without being interrupted'
+p1572
+aS'position with all the power'
+p1573
+aS'picture made by joining letters together in interesting ways'
+p1574
+assS'43'
+p1575
+(dp1576
+g4
+S'd'
+sg5
+S'Please <be candid>.'
+p1577
+sg7
+S'candid'
+p1578
+sg9
+(lp1579
+S'be careful'
+p1580
+aS'show sympathy'
+p1581
+aS'show fairness to both sides'
+p1582
+aS'say what you really think'
+p1583
+assS'40'
+p1584
+(dp1585
+g4
+S'c'
+sg5
+S'This <yoghurt> is disgusting.'
+p1586
+sg7
+S'yoghurt'
+p1587
+sg9
+(lp1588
+S'dark grey mud found at the bottom of rivers'
+p1589
+aS'unhealthy, open sore'
+p1590
+aS'thick, soured milk, often with sugar and flavouring'
+p1591
+aS'large purple fruit with soft flesh'
+p1592
+assS'41'
+p1593
+(dp1594
+g4
+S'd'
+sg5
+S'They saw <an octopus>.'
+p1595
+sg7
+S'octopus'
+p1596
+sg9
+(lp1597
+S'a large bird that hunts at night'
+p1598
+aS'a ship that can go under water'
+p1599
+aS'a machine that flies by means of turning blades'
+p1600
+aS'a sea creature with eight legs'
+p1601
+assS'1'
+(dp1602
+g4
+S'c'
+sg5
+S'They <saw it>.'
+p1603
+sg7
+S'see'
+p1604
+sg9
+(lp1605
+S'closed it tightly'
+p1606
+aS'waited for it'
+p1607
+aS'looked at it'
+p1608
+aS'started it up'
+p1609
+assS'5'
+(dp1610
+g4
+S'a'
+sg5
+S'We <are poor>.'
+p1611
+sg7
+S'poor'
+p1612
+sg9
+(lp1613
+S'have no money'
+p1614
+aS'feel happy'
+p1615
+aS'are very interested'
+p1616
+aS'do not like to work hard'
+p1617
+assS'9'
+(dp1618
+g4
+S'c'
+sg5
+S'Make a <circle>.'
+p1619
+sg7
+S'circle'
+p1620
+sg9
+(lp1621
+S'rough picture'
+p1622
+aS'space with nothing in it'
+p1623
+aS'round shape'
+p1624
+aS'large hole'
+p1625
+assS'94b'
+p1626
+(dp1627
+g4
+S'b'
+sg5
+S'They made a <bylaw>.'
+p1628
+sg7
+S'bylaw'
+p1629
+sg9
+(lp1630
+S"publisher's list of older books"
+p1631
+aS'secondary law'
+p1632
+aS'code made of lines, read by machines'
+p1633
+aS'law that morally condemns people'
+p1634
+assS'23b'
+p1635
+(dp1636
+g4
+S'c'
+sg5
+S'He <has no patience>.'
+p1637
+sg7
+S'patience'
+p1638
+sg9
+(lp1639
+S'has no free time'
+p1640
+aS'has no faith'
+p1641
+aS'will not wait happily'
+p1642
+aS'does not know what is fair'
+p1643
+assS'77'
+p1644
+(dp1645
+g4
+S'd'
+sg5
+S'She saw a <bittern>.'
+p1646
+sg7
+S'bittern'
+p1647
+sg9
+(lp1648
+S'large bottle for storing liquid'
+p1649
+aS'small green grass snake'
+p1650
+aS'false picture caused by hot air'
+p1651
+aS'water bird with long legs and a very loud call'
+p1652
+assS'76'
+p1653
+(dp1654
+g4
+S'a'
+sg5
+S'I was disappointed with the <denouement>'
+p1655
+sg7
+S'denouement'
+p1656
+sg9
+(lp1657
+S'ending of a story which solves the mystery'
+p1658
+aS'amount of money paid for a piece of work'
+p1659
+aS'small place to live which is part of a bigger building'
+p1660
+aS'official report of the results of a political meeting'
+p1661
+assS'75'
+p1662
+(dp1663
+g4
+S'c'
+sg5
+S'We met at the <cenotaph>.'
+p1664
+sg7
+S'cenotaph'
+p1665
+sg9
+(lp1666
+S'large and important church'
+p1667
+aS'public square in the centre of a town'
+p1668
+aS'memorial for people buried somewhere else'
+p1669
+aS'underground train station'
+p1670
+assS'74'
+p1671
+(dp1672
+g4
+S'a'
+sg5
+S'They got <swingeing fines>.'
+p1673
+sg7
+S'swingeing'
+p1674
+sg9
+(lp1675
+S'very large fines'
+p1676
+aS'very small fines'
+p1677
+aS'fines paid in small amounts at a time'
+p1678
+aS'fines that vary depending on income'
+p1679
+assS'73'
+p1680
+(dp1681
+g4
+S'b'
+sg5
+S'Whose <sloop> is that?'
+p1682
+sg7
+S'sloop'
+p1683
+sg9
+(lp1684
+S'warm hat'
+p1685
+aS'light sailing boat'
+p1686
+aS'left over food'
+p1687
+aS'untidy work'
+p1688
+assS'72'
+p1689
+(dp1690
+g4
+S'a'
+sg5
+S'They have a <bidet>.'
+p1691
+sg7
+S'bidet'
+p1692
+sg9
+(lp1693
+S'low basin for washing the body after using the toilet'
+p1694
+aS'large fierce brown dog'
+p1695
+aS'small private swimming pool'
+p1696
+aS'man to help in the house'
+p1697
+assS'71'
+p1698
+(dp1699
+g4
+S'c'
+sg5
+S'They used <tweezers>.'
+p1700
+sg7
+S'tweezers'
+p1701
+sg9
+(lp1702
+S'small pieces of metal for holding papers together'
+p1703
+aS'small pieces of string for closing wounds'
+p1704
+aS'a tool with two blades for picking up or holding small objects'
+p1705
+aS'strong tool for cutting plants'
+p1706
+assS'70'
+p1707
+(dp1708
+g4
+S'd'
+sg5
+S'She is such <a rascal> sometimes.'
+p1709
+sg7
+S'rascal'
+p1710
+sg9
+(lp1711
+S'an unbeliever'
+p1712
+aS'a dedicated student'
+p1713
+aS'a hard worker'
+p1714
+aS'a bad girl'
+p1715
+assS'79'
+p1716
+(dp1717
+g4
+S'c'
+sg5
+S'We will never forget her <magnanimity>.'
+p1718
+sg7
+S'magnanimity'
+p1719
+sg9
+(lp1720
+S'very offensive and unfriendly manners'
+p1721
+aS'courage in times of trouble'
+p1722
+aS'generosity'
+p1723
+aS'completely sincere words'
+p1724
+assS'78'
+p1725
+(dp1726
+g4
+S'b'
+sg5
+S'They have gone to <reconnoitre>.'
+p1727
+sg7
+S'reconnoitre'
+p1728
+sg9
+(lp1729
+S'think again'
+p1730
+aS'make an examination of a new place'
+p1731
+aS'have a good time to mark a happy event'
+p1732
+aS'complain formally'
+p1733
+assS'32b'
+p1734
+(dp1735
+g4
+S'd'
+sg5
+S'He was <erratic>.'
+p1736
+sg7
+S'erratic'
+p1737
+sg9
+(lp1738
+S'without fault'
+p1739
+aS'very bad'
+p1740
+aS'very respectful'
+p1741
+aS'unsteady'
+p1742
+assS'18b'
+p1743
+(dp1744
+g4
+S'a'
+sg5
+S"They didn't find a single <bacterium>."
+p1745
+sg7
+S'bacterium'
+p1746
+sg9
+(lp1747
+S'small living thing causing disease'
+p1748
+aS'plant with red or orange flowers'
+p1749
+aS'animal that carries water in lumps on its back'
+p1750
+aS'thing that has been stolen and sold to a shop'
+p1751
+assS'62b'
+p1752
+(dp1753
+g4
+S'c'
+sg5
+S'He owns two <beagles>.'
+p1754
+sg7
+S'beagle'
+p1755
+sg9
+(lp1756
+S'fast cars with roofs that fold down'
+p1757
+aS'large guns that can shoot many people quickly'
+p1758
+aS'small dogs with long ears'
+p1759
+aS'houses built at holiday places'
+p1760
+assS'87b'
+p1761
+(dp1762
+g4
+S'd'
+sg5
+S'He <performed his ablutions>.'
+p1763
+sg7
+S'ablution'
+p1764
+sg9
+(lp1765
+S'did his exercises to stay healthy'
+p1766
+aS'played his very difficult piece of music'
+p1767
+aS'did all his duties as a church minister'
+p1768
+aS'washed himself to get ready'
+p1769
+assS'80b'
+p1770
+(dp1771
+g4
+S'c'
+sg5
+S'The <pantograph> is broken.'
+p1772
+sg7
+S'pantograph'
+p1773
+sg9
+(lp1774
+S'instrument which plays music from a metal tube'
+p1775
+aS'instrument which measures the amount of breath a person has'
+p1776
+aS'framework of moving bars for copying plans'
+p1777
+aS'pen with a metal point for writing on hard surfaces'
+p1778
+assS'95b'
+p1779
+(dp1780
+g4
+S'a'
+sg5
+S"Don't be such <a nymphomaniac>!"
+p1781
+sg7
+S'nymphomaniac'
+p1782
+sg9
+(lp1783
+S'a person expressing uncontrolled sexual desire'
+p1784
+aS'an antisocial person'
+p1785
+aS'an innocent rural person'
+p1786
+aS'a person who repeats the same crime after punishment'
+p1787
+assS'4b'
+p1788
+(dp1789
+g4
+S'b'
+sg5
+S'<Her standards> are very high.'
+p1790
+sg7
+S'standard'
+p1791
+sg9
+(lp1792
+S'the bits at the back under her shoes'
+p1793
+aS'the levels she reaches in everything'
+p1794
+aS'the marks she gets in school'
+p1795
+aS'the money she asks for'
+p1796
+ass.
